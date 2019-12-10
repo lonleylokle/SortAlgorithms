@@ -12,6 +12,8 @@ int main() {
     SortAlg::selectionSort(vec);
     SortAlg::insertionSort(vec);
     SortAlg::countingSort(vec);
+    SortAlg::mergeSort(vec, 0, vec.size()-1);
+    SortAlg::quickSort(vec, 0, vec.size()-1);
 
     for(auto i : vec)
         std::cout << i << " ";
