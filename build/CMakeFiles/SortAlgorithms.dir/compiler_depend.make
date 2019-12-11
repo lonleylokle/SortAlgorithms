@@ -181,6 +181,20 @@ CMakeFiles/SortAlgorithms.dir/src/main.cpp.o: ../src/main.cpp \
   /usr/include/c++/10/bits/stl_vector.h \
   /usr/include/c++/10/bits/stl_bvector.h \
   /usr/include/c++/10/bits/vector.tcc \
+  /usr/include/c++/10/chrono \
+  /usr/include/c++/10/ratio \
+  /usr/include/c++/10/limits \
+  /usr/include/c++/10/ctime \
+  /usr/include/c++/10/bits/parse_numbers.h \
+  /usr/include/c++/10/functional \
+  /usr/include/c++/10/tuple \
+  /usr/include/c++/10/utility \
+  /usr/include/c++/10/bits/stl_relops.h \
+  /usr/include/c++/10/array \
+  /usr/include/c++/10/bits/uses_allocator.h \
+  /usr/include/c++/10/bits/invoke.h \
+  /usr/include/c++/10/bits/refwrap.h \
+  /usr/include/c++/10/bits/std_function.h \
   ../include/sort_algorithms.h \
   ../src/sort_algorithms.inl
 
@@ -188,6 +202,22 @@ CMakeFiles/SortAlgorithms.dir/src/main.cpp.o: ../src/main.cpp \
 ../src/sort_algorithms.inl:
 
 ../include/sort_algorithms.h:
+
+/usr/include/c++/10/bits/refwrap.h:
+
+/usr/include/c++/10/bits/invoke.h:
+
+/usr/include/c++/10/bits/stl_relops.h:
+
+/usr/include/c++/10/utility:
+
+/usr/include/c++/10/tuple:
+
+/usr/include/c++/10/functional:
+
+/usr/include/c++/10/bits/parse_numbers.h:
+
+/usr/include/c++/10/limits:
 
 /usr/include/c++/10/bits/vector.tcc:
 
@@ -226,6 +256,8 @@ CMakeFiles/SortAlgorithms.dir/src/main.cpp.o: ../src/main.cpp \
 /usr/include/c++/10/exception:
 
 /usr/include/x86_64-linux-gnu/bits/time64.h:
+
+/usr/include/c++/10/ratio:
 
 /usr/include/stdint.h:
 
@@ -319,6 +351,10 @@ CMakeFiles/SortAlgorithms.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/stdc-predef.h:
 
+/usr/include/c++/10/array:
+
+/usr/include/c++/10/chrono:
+
 /usr/include/x86_64-linux-gnu/c++/10/bits/cpu_defines.h:
 
 /usr/include/x86_64-linux-gnu/c++/10/bits/c++config.h:
@@ -339,6 +375,8 @@ CMakeFiles/SortAlgorithms.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/sched.h:
 
+/usr/include/c++/10/bits/uses_allocator.h:
+
 /usr/lib/gcc/x86_64-linux-gnu/10/include/stdint.h:
 
 /usr/include/c++/10/clocale:
@@ -358,6 +396,8 @@ CMakeFiles/SortAlgorithms.dir/src/main.cpp.o: ../src/main.cpp \
 /usr/include/c++/10/bits/functexcept.h:
 
 /usr/include/c++/10/string:
+
+/usr/include/c++/10/ctime:
 
 /usr/include/x86_64-linux-gnu/bits/locale.h:
 
@@ -412,6 +452,8 @@ CMakeFiles/SortAlgorithms.dir/src/main.cpp.o: ../src/main.cpp \
 /usr/include/stdlib.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h:
+
+/usr/include/c++/10/bits/std_function.h:
 
 /usr/include/c++/10/bits/stl_vector.h:
 
